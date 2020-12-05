@@ -3,7 +3,7 @@ authors = []
 date = ""
 excerpt = "first"
 hero = "/images/alexwell_black_vector.png"
-timeToRead = 0
+timeToRead = 1
 title = "alexwell hello"
 
 +++
