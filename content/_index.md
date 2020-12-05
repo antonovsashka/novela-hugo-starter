@@ -4,7 +4,7 @@ hero:
   maxWidthPX: '360'
 seo:
   image: "/images/hero-2.jpg"
-maxWidthPX: 652
+maxWidthPX: 360
 heading: alexwell
 
 ---
