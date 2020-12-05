@@ -9,4 +9,5 @@ fields:
   template: home-hero
   label: Hero
 pages:
+- config/_default/cfg2.yaml
 - content/_index.md
