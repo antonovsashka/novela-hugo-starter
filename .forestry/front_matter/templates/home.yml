@@ -19,5 +19,3 @@ fields:
 - name: '111'
   type: boolean
   label: '111'
-pages:
-- content/_index.md
