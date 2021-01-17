@@ -20,5 +20,4 @@ fields:
   type: boolean
   label: '111'
 pages:
-- config/_default/cfg2.yaml
 - content/_index.md
