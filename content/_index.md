@@ -7,7 +7,7 @@ hero:
 seo:
   image: "/images/hero-2.jpg"
 maxWidthPX: 360
-heading: alexwell
+heading: alexwell studio
 
 ---
 # hello there
