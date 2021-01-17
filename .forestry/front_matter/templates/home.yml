@@ -8,14 +8,3 @@ fields:
   config: {}
   template: home-hero
   label: Hero
-- name: '123'
-  type: blocks
-  label: '123'
-  template_types:
-  - post
-  config:
-    min: 
-    max: 
-- name: '111'
-  type: boolean
-  label: '111'
